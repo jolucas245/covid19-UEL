@@ -1,4 +1,4 @@
-#Mon Mar 20 01:29:34 BRT 2023
+#Sat Jul 22 22:13:43 BRT 2023
 base.0=/home/jolusca/Desktop/covid19_uel/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

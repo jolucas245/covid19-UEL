@@ -1,0 +1,32 @@
+class StringsAnsiedade{
+
+  static String what = "Podemos nos sentir ansiosos(as) diante de situações que provocam sensação de falta de controle como:\n- Aumento de medidas de prevenção,\n- Isolamento social\n- Desconhecimento de qual é o cenário a ser enfrentado no futuro\nAnsiedade é um sentimento que tem o objetivo de proteção nos tornando mais:\n- Atentos(as)\n- Dispostos(as) a agir de maneira segura em relação ao que nos ameaça.\nA ansiedade favorece comportamentos de:\n\u2024\u2022\u2024 Buscar informações,\n\u2024\u2022\u2024 Conscientizar-nos sobre a \n\u2024\u2024situação vivenciada\n\u2024\u2022\u2024 Prevenir a contaminação pelo \n\u2024\u2024novo coronavírus\n\nA ansiedade faz parte da situação que estamos vivendo! Lembre-se que sua vida não precisa parar por causa dela!";
+
+  static String identifyFirst = "A ansiedade pode afetar\n- Nosso corpo:\n\u2024Sensações como tensão muscular;\n\u2024\u2022\u2024“Nó na garganta”;\n\u2024\u2022\u2024Aperto no peito;\n\u2024\u2022\u2024Dor de cabeça;\n\u2024\u2022\u2024Taquicardia;\n\u2024\u2022\u2024Enjoo;\n\u2024\u2022\u2024Dor de barriga;\n\u2024\u2022\u2024“Frio na barriga”;\n\u2024\u2022\u2024Insônia.\n\n- Nossos pensamentos\n\u2024\u2022\u2024Ficar mais alerta, irritado(a) ou triste;\n\u2024\u2022\u2024Não conseguir relaxar ou concentrar-se em atividades de trabalho;\n\u2024\u2022\u2024Apresentar pensamentos negativos e repetitivos tais como medo de contaminar a família;\n\u2024\u2022\u2024Sofrer por antecipação como, por exemplo, com o medo de ser infectado(a) pelo vírus.";
+
+  static String identifySecond = "- Nossas relações com outras pessoas:\n\u2024\u2022\u2024Evitar o contato com colegas de trabalho e familiares;\n\u2024\u2022\u2024Discutir mais com aqueles que são próximos e compartilham o mesmo espaço físico.";
+
+
+  static List<String> boldWordsIdentify = ["falta de controle", "A ansiedade faz parte da situação que estamos vivendo! Lembre-se que sua vida não precisa parar por causa dela!", "A ansiedade pode afetar", "- Nosso corpo:", "- Nossos pensamentos", "- Nossas relações com outras pessoas:"];
+
+  static String toLeadFirst = "Concentre-se no momento presente e no que está fazendo agora:\n\u2024\u2022\u2024Identifique os pensamentos incômodos;\n\u2024\u2022\u2024Avalie a possibilidade real de que aquilo que o ameaça aconteça e o que pode ser feito para diminuir a chance de que isso ocorra;\n\u2024\u2022\u2024Foque sua energia no que você pode, de fato, controlar.\n\nExemplos:\n- Lavar as mãos frequentemente;\n- Usar equipamentos de segurança;\n- Tomar os devidos cuidados antes de entrar em casa após o trabalho etc.";
+
+  static String toLeadSecond = "Mantenha-se informado(a) e atualizado(a) a partir de fontes oficiais de informações:\n\u2024\u2022\u2024Evite acessar tais informações mais do que duas vezes por dia;\n\u2024\u2022\u2024Acesse informações mais otimistas sobre a situação sempre que possível.";
+
+  static String toLeadThird = "Para aumentar seu bem-estar psicológico:\n\u2024\u2022\u2024Fale com amigos e familiares sobre os sentimentos que você vivencia;\n\u2024\u2022\u2024Se possível, desenvolva atividades de que gosta;\n\u2024\u2022\u2024Tente listar coisas positivas que aconteceram durante o seu dia e trace planos para o dia seguinte;\n\u2024\u2022\u2024Crie um momento diário para relaxamento.\n\nExemplos:\n- Ouvir música de olhos fechados;\n- Pintar;\n- Utilizar técnicas de relaxamento.";
+
+  static List<String> boldWordsToLead = ["Concentre-se no momento presente e no que está fazendo agora:", "Mantenha-se informado(a) e atualizado(a) a partir de fontes oficiais de informações:", "Para aumentar seu bem-estar psicológico:", "Exemplos:"];
+
+  static String strategyJobFirst = "Realizar exercícios de qualquer tipo (ex.: corrida, caminhada) durante 20 a 30 minutos pode:\n\u2024\u2022\u2024Reduzir ansiedade e estresse\n\u2024\u2022\u2024Reduzir pensamentos negativos\n\nFaça exercícios sempre sob a supervisão de um profissional capacitado.";
+  
+  static String strategyJobSecond = "Pratique a Atenção Plena ou Mindfulness:\n\u2024\u2022\u2024Viva intencionalmente no momento presente, deixando de se comportar de forma automática ou mecânica;\n\u2024\u2022\u2024Faça uma coisa de cada vez, sem dividir sua atenção entre várias atividades, como comer e trabalhar, por exemplo;\n\u2024\u2022\u2024Evite julgar o momento como bom ou ruim;\n\u2024\u2022\u2024Atentar-se para a experiência que acontece em cada novo momento, sem apegar-se ao passado ou se preocupar com o futuro.\n\nAs práticas de Atenção Plena podem ser exercitadas em qualquer momento, enquanto se faz qualquer coisa.";
+  
+  static String strategyJobThird = "Preste atenção no que está fazendo naquele momento:\nPor exemplo, se for arrumar a cama:\n\u2024\u2022\u2024Preste atenção nos movimentos que executa, na cor do lençol, textura da roupa de cama, odores do ambiente, iluminação do ambiente;\n\u2024\u2022\u2024Fique focado no que está fazendo;\n\u2024\u2022\u2024Evite pensar em outras coisas além da sua tarefa de arrumar a cama.";
+  
+  static List<String> boldWordsStrategyJob = ["Realizar exercícios de qualquer tipo (ex.: corrida, caminhada) durante 20 a 30 minutos pode:","Faça exercícios sempre sob a supervisão de um profissional capacitado.", "Pratique a Atenção Plena ou Mindfulness:", "As práticas de Atenção Plena podem ser exercitadas em qualquer momento, enquanto se faz qualquer coisa.", "Preste atenção no que está fazendo naquele momento:"];
+  
+
+  static String strategyNowFirst = "Diminua a temperatura com água fria\n\u2024\u2022\u2024Prenda a respiração por alguns segundos (15 a 30 segundos)\n\u2024\u2022\u2024Lave seu rosto com água fria ou use compressas sobre os olhos e bochechas. \n\u2024\u2022\u2024A água deve estar com a temperatura acima de 10 ºC para não causar dor facial.\n\nNão realize essa estratégia se apresentar problemas cardíacos\n\nQuando você lava seu rosto com água fria ou usa compressas geladas sobre os olhos e na parte superior das bochechas e prende a respiração, seu cérebro entende que você está mergulhando e produz:\n\u2024\u2022\u2024Diminuição da frequência cardíaca;\n\u2024\u2022\u2024Redirecionamento do fluxo do sangue dos órgãos não essenciais para o cérebro e coração;\n\u2024\u2022\u2024Auxílio na regulação das emoções mais intensas.";
+  
+  static List<String> boldWordsStrategyNow = ["Diminua a temperatura com água fria", "Não realize essa estratégia se apresentar problemas cardíacos"];
+}

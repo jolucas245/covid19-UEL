@@ -1,0 +1,44 @@
+name: app_covid
+description: Projeto de iniciativa da Universidade Estadual de Londrina a
+  respeito dos efeitos do Covid-19.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  device_preview: ^1.1.0
+  expandable_page_view: ^1.0.17
+  fading_edge_scrollview: ^3.0.0
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.0.0
+  go_router: ^5.1.6
+  nice_buttons: ^0.0.2
+  page_view_indicators: ^2.0.0
+  simple_animations: ^5.0.0+2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+    - assets/icons/
+
+  fonts:
+    - family: Sophisto
+      fonts:
+        - asset: assets/fonts/sophisto.ttf
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
