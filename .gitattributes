@@ -1,1 +1,1 @@
-*.js linguist-language=Dart
+*.js linguist-detectable=false
