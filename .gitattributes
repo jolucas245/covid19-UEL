@@ -1,2 +1,8 @@
 *.js linguist-detectable=false
-Makefile linguist-vendored
+*.d linguist-detectable=false
+*.make linguist-detectable=false
+*.mk linguist-detectable=false
+*.mkfile linguist-detectable=false
+
+
+
